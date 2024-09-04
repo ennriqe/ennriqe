@@ -1,4 +1,4 @@
-# Enrique Barrueco - Data Scientist
+# Enrique Barrueco Mikelarena - Data Scientist
 
 Welcome to my GitHub profile! I am Enrique Barrueco, a passionate Data Scientist deeply interested in data-driven decision-making, predictive modeling, and crypto. My journey in data science has been shaped by a combination of strong academic foundations, practical experience, and a relentless curiosity to explore new technologies.
 
