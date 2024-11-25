@@ -10,7 +10,7 @@ PunkPredictor.xyz is a subscription site that gives its users access to the most
 ### [DFKData.io](https://dfkdata.io)
 DFKData.io is a detailed dashboard embedded in a site that provides price and supply analytics for DeFi Kingdoms, a GameFi project. The data is directly queried from the DFK and Kaia blockchains, GraphQL, and various APIs.
 
-## 🏆 Hackathon Successes
+## 🏆 Hackathons
 
 ### 🥇 zkML Gizathon (February 2024)
 We developed a ZK-verifiable model to predict the fair price of CryptoPunks, achieving an impressive 87% accuracy (1-MAPE). This project won the first prize for the best AI action, securing $3.5k.
@@ -50,11 +50,12 @@ During my time working as a student assistant for Maastricht University, I contr
 
 ## 🔧 Tools & Technologies
 
-- **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL, GraphQL, JavaScript, TypeScript, HTML, CSS
-- **Data Analysis:** PowerBI, Dune SQL, LIME, Spark
-- **Web Development:** Selenium, Dynamics 365, Business Central CRMs
+- **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, HuggingFace, Transformers, Optuna, SHAP, Snorkel, spaCy, Selenium, Playwright, Matplotlib, Seaborn, Plotly), SQL, Dune SQL, GraphQL, SPARQL, JavaScript, TypeScript, HTML, CSS
+- **Data Science & Analysis:** Power BI, Dune SQL, LIME, Spark, Predictive Modeling, Deep Learning, Natural Language Processing (NLP)
+- **Web Development:** Selenium, Playwright, Microsoft Dynamics 365 (CRM and Business Central)
 - **Blockchain & Crypto:** Web3, Dune Analytics
-- **Others:** Predictive Modeling, Deep Learning, NLP
+- **Cloud Platforms:** AWS, Vercel, Heroku, DigitalOcean, Microsoft Dynamics 365
+- **Soft Skills:** Curiosity, Perseverance, Consistency, Resourcefulness, Clear Communication, Structure and Design of Data Problems
 
 ## 📫 Get in Touch
 
