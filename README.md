@@ -42,12 +42,6 @@ During my time working as a student assistant for Maastricht University, I contr
 - **Bachelor of Science in Economics** (Universidad Complutense de Madrid, 2014 - 2019)
   - Thesis: Economic Analysis of Bitcoin
 
-- **Online Courses:**
-  - Neural Networks and Deep Learning (July 2024)
-  - Improving Deep Neural Networks (July 2024)
-  - Introduction to Structured Query Language (SQL) (September 2019)
-  - Financial Markets (June 2019)
-
 ## 🔧 Tools & Technologies
 
 - **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, HuggingFace, Transformers, Optuna, SHAP, Snorkel, spaCy, Selenium, Playwright, Matplotlib, Seaborn, Plotly), SQL, Dune SQL, GraphQL, SPARQL, JavaScript, TypeScript, HTML, CSS
