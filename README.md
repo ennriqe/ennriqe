@@ -5,10 +5,7 @@ Welcome to my GitHub profile! I am Enrique Barrueco, a passionate Data Scientist
 ## Side Projects
 
 ### [PunkPredictor.xyz](https://punkpredictor.xyz)
-PunkPredictor.xyz is a subscription site that gives its users access to the most accurate CryptoPunk price prediction model. It leverages a deep neural network with an in-production median absolute percent error of 6.89%. Users also gain access to valuation intervals generated using conformal predictions and valuation reports created using explainable AI.
-
-### [DFKData.io](https://dfkdata.io)
-DFKData.io is a detailed dashboard embedded in a site that provides price and supply analytics for DeFi Kingdoms, a GameFi project. The data is directly queried from the DFK and Kaia blockchains, GraphQL, and various APIs.
+PunkPredictor.xyz is the most accurate valuation site for CryptoPunks, the most valuable and relevant NFT collection. It is powered by a deep neural network ensemble with an in-production median absolute percent error of 5.38%.
 
 ## 🏆 Hackathons
 
