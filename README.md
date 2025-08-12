@@ -5,7 +5,7 @@ I am Enrique Barrueco, a Data Scientist deeply interested in data-driven decisio
 ## Side Projects
 
 ### [PunkPredictor.xyz](https://punkpredictor.xyz)
-PunkPredictor.xyz is the most accurate valuation site for CryptoPunks, the most valuable and relevant NFT collection. It is powered by a deep neural network ensemble with an in-production median absolute percent error of 5.38%.
+PunkPredictor.xyz is the most accurate valuation site for CryptoPunks, the most valuable and relevant NFT collection. It is powered by a deep neural network ensemble with an in-production median absolute percent error of 4.88%.
 
 ## 🏆 Hackathons
 
