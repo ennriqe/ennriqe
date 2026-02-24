@@ -1,57 +1,51 @@
-# Enrique Barrueco Mikelarena - Data Scientist
+# Enrique Barrueco Mikelarena
 
-I am Enrique Barrueco, a Data Scientist deeply interested in data-driven decision-making and predictive modeling. My journey in data science has been shaped by a combination of strong academic foundations, practical experience, and a relentless curiosity to explore new technologies.
+Quantitative Research + Production ML engineer based in Amsterdam.
 
-## Side Projects
+I build end-to-end ML systems and research workflows: data pipelines, feature engineering, validation, training and evaluation gates, deployment, monitoring and retraining, and reproducible release processes.
 
-### [PunkPredictor.xyz](https://punkpredictor.xyz)
-PunkPredictor.xyz is the most accurate valuation site for CryptoPunks, the most valuable and relevant NFT collection. It is powered by a deep neural network ensemble with an in-production median absolute percent error of 4.88%.
+## Selected Outcomes
 
-## 🏆 Hackathons
+### PunkPredictor (Founder, production ML + quant research)
+- Built and operate a production valuation system for CryptoPunks with scheduled inference, policy-driven retraining, and gated promotion/rollback.
+- Live valuation quality (as of Feb 2026): 2,807 sales; MAPE 6.92%; median 4.68%; signed bias -0.80%.
+- Forward/live strategy validation vs passive baseline: Sharpe 2.23 vs 1.57; max drawdown 16.32% vs 41.02%.
 
-### 🥇 zkML Gizathon (February 2024)
-We developed a ZK-verifiable model to predict the fair price of CryptoPunks, achieving an impressive 87% accuracy (1-MAPE). This project won the first prize for the best AI action, securing $3.5k.
+### Flexas (Data Scientist / Applied ML Engineer)
+- Fine-tuned and deployed an open-source LLM on ~30k real chat conversations (QLoRA + production optimizations).
+- Impact: lead conversion +20.3pp and P95 latency -85% to 8.9s.
 
-### 🥇 ETHDAM (April 2024)
-At ETHDAM, I contributed to building a model that uses newly minted ERC20 contract data to predict market cap success. This project won the Slither Track and earned a $1K prize.
+### Flexas / Doory.ai (Full-stack engineer)
+- Built an internal operations platform with React/TypeScript, FastAPI, PostgreSQL, and Docker.
 
-### 🥉 GIZA & GORA AI COMPETITION (May 2024)
-In this Kaggle-style competition, our team predicted the default of over-collateralized crypto loans, securing the 3rd prize with a $750 reward.
+## What I Work On
 
-### 🥇 ETHGlobal Brussels (July 2024)
-We developed an innovative app for fully private melanoma consultations using a picture. The neural network was hosted on the Nillion Testnet, and the app won the first prize in the Best Blind AI App category, along with $3k.
+- Quant research and statistical validation
+- Production ML systems and MLOps
+- Forecasting and pricing models
+- Applied ML for business workflows
+- Crypto and on-chain data products
 
+## Featured Public Repositories
 
-## 📄 Published Papers
+- [punkpredictor-case-study](https://github.com/ennriqe/punkpredictor-case-study) - Sanitized production ML + quant research case study (architecture, release gates, monitoring, retraining policy).
+- [ml-predicted-nft-merkle-proofs](https://github.com/ennriqe/ml-predicted-nft-merkle-proofs) - On-chain verifiable ML metrics using sparse Merkle proofs.
+- [Predict-CryptoPunks-Price](https://github.com/ennriqe/Predict-CryptoPunks-Price) - CryptoPunks price prediction research pipeline and notebooks.
+- [ETHGlobal-Bangkok2024](https://github.com/ennriqe/ETHGlobal-Bangkok2024) - Hackathon prototype combining market data collection, modeling, and an agent workflow.
+- [Giza-Gora-Competition](https://github.com/ennriqe/Giza-Gora-Competition) - Competition solution for DeFi loan liquidation ratio prediction.
+- [ETHDam-Slither-Token-Contract-to-Predict-Success](https://github.com/ennriqe/ETHDam-Slither-Token-Contract-to-Predict-Success) - Contract-feature ML for ERC-20 success prediction.
 
-During my time working as a student assistant for Maastricht University, I contributed to two significant research projects, resulting in published papers:
+## Publications
 
-- **Dark Web Market Scraping:** Scraped 12 Dark Web markets to identify compromised student accounts of the university. [Read the paper here](https://link.springer.com/chapter/10.1007/978-3-031-06975-8_28).
+- [Springer (InfoSec)](https://link.springer.com/chapter/10.1007/978-3-031-06975-8_28) - Co-authored research on dark web market intelligence and credential exposure analysis.
+- [IEEE (Blockchain/Networking)](https://ieeexplore.ieee.org/document/9909272/) - Co-authored work on a browser extension for crypto donations.
 
-- **Crypto Donations Chrome Extension:** Participated in the development of a JavaScript Chrome extension that facilitates crypto donations to content creators. [Read the paper here](https://ieeexplore.ieee.org/document/9909272/).
+## Tech (Selected)
 
-## 🎓 Education & Certifications
+Python, TypeScript, SQL, PyTorch, TensorFlow, Hugging Face, FastAPI, PostgreSQL, Docker, AWS, Vercel, Heroku
 
-- **Master of Science in Data Science** (Maastricht University, 2020 - 2024)
-  - Thesis: Predicting Cardiovascular Disease in Chronic Myelogenous Leukemia Patients
-  - Notable Projects: NLP on heraldic texts, NLP on YouTube videos for Bitcoin price prediction, Swarm bullying detection, E-commerce item pricing.
+## Contact
 
-- **Bachelor of Science in Economics** (Universidad Complutense de Madrid, 2014 - 2019)
-  - Thesis: Economic Analysis of Bitcoin
-
-## 🔧 Tools & Technologies
-
-- **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, HuggingFace, Transformers, Optuna, SHAP, Snorkel, spaCy, Selenium, Playwright, Matplotlib, Seaborn, Plotly), SQL, Dune SQL, GraphQL, SPARQL, JavaScript, TypeScript, HTML, CSS
-- **Data Science & Analysis:** Power BI, Dune SQL, LIME, Spark, Predictive Modeling, Deep Learning, Natural Language Processing (NLP)
-- **Web Development:** Selenium, Playwright, Microsoft Dynamics 365 (CRM and Business Central)
-- **Blockchain & Crypto:** Web3, Dune Analytics
-- **Cloud Platforms:** AWS, Vercel, Heroku, DigitalOcean, Microsoft Dynamics 365
-- **Soft Skills:** Curiosity, Perseverance, Consistency, Resourcefulness, Clear Communication, Structure and Design of Data Problems
-
-## 📫 Get in Touch
-
-- **LinkedIn:** [Enrique Barrueco](https://linkedin.com/in/enriquebarrueco)
-- **GitHub:** [github.com/ennriqe](https://github.com/ennriqe)
-- **Twitter/X** [@BarruecoEnrique](https://X.com/BarruecoEnrique)
-
-I'm always open to discussing new ideas, collaborations, or anything related to data science and crypto. Feel free to reach out!
+- [LinkedIn](https://www.linkedin.com/in/enrique-barrueco-mikelarena/)
+- [GitHub](https://github.com/ennriqe)
+- [PunkPredictor](https://punkpredictor.xyz)
