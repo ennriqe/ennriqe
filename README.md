@@ -29,11 +29,11 @@ I build end-to-end ML systems and research workflows: data pipelines, feature en
 ## Featured Public Repositories
 
 - [punkpredictor-case-study](https://github.com/ennriqe/punkpredictor-case-study) - Sanitized production ML + quant research case study (architecture, release gates, monitoring, retraining policy).
-- [ml-predicted-nft-merkle-proofs](https://github.com/ennriqe/ml-predicted-nft-merkle-proofs) - On-chain verifiable ML metrics using sparse Merkle proofs.
+- [verifiable-ml-nft-metrics](https://github.com/ennriqe/verifiable-ml-nft-metrics) - On-chain verifiable ML metrics using sparse Merkle proofs.
 - [Predict-CryptoPunks-Price](https://github.com/ennriqe/Predict-CryptoPunks-Price) - CryptoPunks price prediction research pipeline and notebooks.
-- [ETHGlobal-Bangkok2024](https://github.com/ennriqe/ETHGlobal-Bangkok2024) - Hackathon prototype combining market data collection, modeling, and an agent workflow.
-- [Giza-Gora-Competition](https://github.com/ennriqe/Giza-Gora-Competition) - Competition solution for DeFi loan liquidation ratio prediction.
-- [ETHDam-Slither-Token-Contract-to-Predict-Success](https://github.com/ennriqe/ETHDam-Slither-Token-Contract-to-Predict-Success) - Contract-feature ML for ERC-20 success prediction.
+- [crypto-agent-memecoin-prototype](https://github.com/ennriqe/crypto-agent-memecoin-prototype) - Hackathon prototype combining market data collection, modeling, and an agent workflow.
+- [defi-loan-liquidation-prediction](https://github.com/ennriqe/defi-loan-liquidation-prediction) - Competition solution for DeFi loan liquidation ratio prediction.
+- [ethdam-erc20-success-prediction](https://github.com/ennriqe/ethdam-erc20-success-prediction) - Contract-feature ML for ERC-20 success prediction.
 
 ## Publications
 
