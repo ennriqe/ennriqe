@@ -4,6 +4,10 @@ Quantitative Research + Production ML engineer based in Amsterdam.
 
 I build end-to-end ML systems and research workflows: data pipelines, feature engineering, validation, training and evaluation gates, deployment, monitoring and retraining, and reproducible release processes.
 
+Start here: [punkpredictor-case-study](https://github.com/ennriqe/punkpredictor-case-study) (sanitized architecture, operations, and evaluation workflow for a live production system).
+
+Some of my strongest production work is in private repositories tied to active infrastructure and client systems; the case study above is the best public view of my architecture/process approach.
+
 ## Selected Outcomes
 
 ### PunkPredictor (Founder, production ML + quant research)
